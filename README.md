@@ -3,4 +3,4 @@ Following Nicholas Renotte's Youtube tutorial on Object Detection using TENSORFL
 
 ![classify](https://user-images.githubusercontent.com/57687239/178120388-5e87071e-90ad-4d3e-a6f2-7cc0ec6de552.png)
 
-See the robot in action:
+See the robot in action: https://youtu.be/1XxlG-fgmyQ
